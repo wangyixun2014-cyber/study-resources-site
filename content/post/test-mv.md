@@ -7,7 +7,7 @@ date: 2026-05-22
 ### 🎵 手机端在线点播测试（免翻墙直连）
 
 <div style="position: relative; padding-bottom: 56.25%; width: 100%; height: 0; border-radius: 12px; overflow: hidden; background: #000; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-    <iframe src="https://yewtu.be/embed/wIHWPKZKc1Q?local=true" 
+    <iframe src="https://music.163.com/outchain/player?type=3&id=14321034&auto=0" 
             scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" 
             playsinline
             webkit-playsinline
