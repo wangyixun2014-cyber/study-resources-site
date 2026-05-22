@@ -6,14 +6,15 @@ date: 2026-05-22
 
 ### 🎵 手机端在线点播测试（免翻墙直连）
 
-<div style="position: relative; padding-bottom: 56.25%; width: 100%; height: 0; border-radius: 12px; overflow: hidden; background: #000; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-    <iframe src="https://music.163.com/outchain/player?type=3&id=14321034&auto=0" 
-            scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" 
-            playsinline
-            webkit-playsinline
-            x5-playsinline
-            style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;">
-    </iframe>
+<div style="width: 100%; border-radius: 12px; overflow: hidden; background: #000; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <video src="https://mirror.ghproxy.com/https://github.com/wangyixun2014-cyber/study-resources-site/releases/download/v1.0/wIHWPKZKc1Q.mp4" 
+           controls 
+           preload="metadata" 
+           playsinline 
+           webkit-playsinline
+           x5-playsinline
+           style="width: 100%; height: auto; display: block;">
+    </video>
 </div>
 
 > 💡 **站长提示**：本视频直接调用海外隐私节点传输 YouTube 原始画质流，国内手机直接点开即可流畅播放，无片头广告。
