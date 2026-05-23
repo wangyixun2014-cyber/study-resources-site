@@ -9,14 +9,8 @@ categories:
 
 ### 🎬 测试视频抢先看（国内移动端直连）
 
-<video 
-    src="https://ghproxy.net/https://github.com/wangyixun2014-cyber/study-resources-site/releases/download/v1.1/LetMe.mp4" 
-    controls 
-    preload="metadata" 
-    width="100%" 
-    webkit-playsinline="true" 
-    playsinline="true"
-    style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<video controls>
+  <source src="https://cdn.jsdelivr.net/gh/wangyixun2014-cyber/study-resources-site@v1.1/1etle.mp4">
 </video>
 
 ---
