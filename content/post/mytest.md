@@ -9,8 +9,8 @@ categories:
 
 ### 🎬 测试视频抢先看（国内移动端直连）
 
-<video controls>
-  <source src="https://cdn.jsdelivr.net/gh/wangyixun2014-cyber/study-resources-site@v1.1/1etle.mp4">
+<video controls playsinline webkit-playsinline x5-playsinline preload="metadata" width="100%">
+  <source src="https://github.com/wangyixun2014-cyber/study-resources-site/releases/download/v1.1/1etle.mp4" type="video/mp4">
 </video>
 
 ---
